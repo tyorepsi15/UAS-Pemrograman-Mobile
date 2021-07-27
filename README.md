@@ -8,7 +8,7 @@ Nim   : 311810430
 
 # Keterangan
 
-Bahasa Pemrograman  : qv
+Bahasa Pemrograman  : Kivy
 
 Aplikasi berjalan   : Barcode belum berjalan
 
