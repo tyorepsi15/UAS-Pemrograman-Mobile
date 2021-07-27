@@ -6,7 +6,12 @@ Kelas : TI.18.D1
 
 Nim   : 311810430
 
+# Keterangan
 
 Bahasa Pemrograman  : qv
 
 Aplikasi berjalan   : Barcode belum berjalan
+
+# Data Base
+
+mysql, localhost
